@@ -1,2 +1,2 @@
-# Java
+# Java ServerSocket Sample
 Java code
