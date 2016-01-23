@@ -1,6 +1,7 @@
 # Java ServerSocket Sample
 
 Usage:
+
 1. Start Server
 
 2. Use another system to connect via telnet to this Server. Port = 13007 (telnet 192.168.1.200 13007)
